@@ -1,1 +1,0 @@
-# Temple_management_System
